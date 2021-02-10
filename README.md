@@ -67,9 +67,9 @@ To escape antivirus detection and always stay fud , the executable A310Logger.ex
  
  # Contact 
  
- Telegram  : https://t.me/hakanonymos
+ Telegram  : https://t.me/hakanonymos (better contact )
  
- Skype,ICQ,instagram : hakanonymos
+ Skype,ICQ,instagram : hakanonymos  
  
  Email : hakanonymos@hotmail.com
  
