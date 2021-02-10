@@ -65,6 +65,9 @@ To escape antivirus detection and always stay fud , the executable A310Logger.ex
  
  if you want ,you can get other version A310Logger that send logs directly but the better is to use 2 project  
  
+# Please don't scan with virustotal.com ,you can build at yourself the project,
+      you scan only with your antivirus 
+ 
  # Contact 
  
  Telegram  : https://t.me/hakanonymos (better contact )
