@@ -2,7 +2,7 @@
 
 # :unlock: A310Logger
 Get Cookies,passwords ,Autofil ..etc from Chromium browsers with integrated sending to Telegram or discord or Gmail
-Chrome 80 > is supported! and mozilla firefox
+Chrome 80 > is supported and mozilla firefox
 
 ### :cherries: Functions:
 * Steal passwords All chromium Browser and Gecko Browser
