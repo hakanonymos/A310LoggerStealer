@@ -37,11 +37,13 @@ To escape antivirus detection and always stay fud , the executable A310Logger.ex
 
 * it retrieves the information then stores it in a folder: A310Logger
 
-    C:\Users\YourComputerName\AppData\Local\\A310Logger
+        C:\Users\YourComputerName\AppData\Local\\A310Logger
  
    it does not have malicious behavior because it does not communicate remotely
    
-    To go to this folder, just type "windows key + r"  and put "appdata" then enter button
+    To go to this folder, just type :
+
+        "windows key + r"  and put "appdata" then enter button
     
     ![b](https://user-images.githubusercontent.com/30985149/107444915-74833180-6b76-11eb-8a1e-a488ee171cdf.PNG)
 
